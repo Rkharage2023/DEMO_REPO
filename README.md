@@ -1,4 +1,4 @@
 # DEMO_REPO
 Demo repository
 <br>
-Rushikesh kharage github demo 1
+Rushikesh k - github demo 1
